@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mTSD+UZE5UQ=",
+  "success": true,
+  "projectFilePath": "/workspace/FftShiftTest/FftShiftTest.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu/.nuget/packages/opencvsharp4/4.11.0.20250507/opencvsharp4.4.11.0.20250507.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/system.memory/4.6.3/system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
