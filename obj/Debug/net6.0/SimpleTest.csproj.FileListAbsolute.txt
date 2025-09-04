@@ -1,0 +1,15 @@
+/workspace/obj/Debug/net6.0/SimpleTest.csproj.AssemblyReference.cache
+/workspace/obj/Debug/net6.0/SimpleTest.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/obj/Debug/net6.0/SimpleTest.AssemblyInfoInputs.cache
+/workspace/obj/Debug/net6.0/SimpleTest.AssemblyInfo.cs
+/workspace/obj/Debug/net6.0/SimpleTest.csproj.CoreCompileInputs.cache
+/workspace/bin/Debug/net6.0/SimpleTest
+/workspace/bin/Debug/net6.0/SimpleTest.deps.json
+/workspace/bin/Debug/net6.0/SimpleTest.runtimeconfig.json
+/workspace/bin/Debug/net6.0/SimpleTest.dll
+/workspace/bin/Debug/net6.0/SimpleTest.pdb
+/workspace/obj/Debug/net6.0/SimpleTest.dll
+/workspace/obj/Debug/net6.0/refint/SimpleTest.dll
+/workspace/obj/Debug/net6.0/SimpleTest.pdb
+/workspace/obj/Debug/net6.0/SimpleTest.genruntimeconfig.cache
+/workspace/obj/Debug/net6.0/ref/SimpleTest.dll
