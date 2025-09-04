@@ -3,17 +3,13 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <StartupObject>SimpleFftShiftTest</StartupObject>
+    <StartupObject>FixedFftShiftTest</StartupObject>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="SimpleFftShiftTest.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Compile Remove="*.cs" />
-    <Compile Include="SimpleFftShiftTest.cs" />
+    <Compile Include="FixedFftShiftTest.cs" />
   </ItemGroup>
 
 </Project>
