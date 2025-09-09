@@ -47,9 +47,9 @@
               "target": "Package",
               "version": "[4.11.0.20250507, )"
             },
-            "OpenCvSharp4.runtime.ubuntu.18.04-x64": {
+            "OpenCvSharp4.Extensions": {
               "target": "Package",
-              "version": "[4.6.0.20220608, )"
+              "version": "[4.11.0.20250507, )"
             },
             "xunit": {
               "target": "Package",

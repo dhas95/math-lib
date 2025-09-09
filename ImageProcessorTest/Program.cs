@@ -9,6 +9,16 @@ class Program
         // First run algorithmic analysis (works without OpenCV runtime)
         SimpleAlgorithmTest.RunAlgorithmicTests();
         
+        // Try to initialize OpenCV
+        try
+        {
+            OpenCvConfig.Initialize();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"OpenCV initialization failed: {ex.Message}");
+        }
+        
         // Try to run full tests if OpenCV is available
         try
         {
