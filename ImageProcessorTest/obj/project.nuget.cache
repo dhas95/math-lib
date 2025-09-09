@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "2wyfa7l2iMs=",
+  "success": true,
+  "projectFilePath": "/workspace/ImageProcessorTest/ImageProcessorTest.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu/.nuget/packages/opencvsharp4/4.11.0.20250507/opencvsharp4.4.11.0.20250507.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/opencvsharp4.runtime.ubuntu.18.04-x64/4.6.0.20220608/opencvsharp4.runtime.ubuntu.18.04-x64.4.6.0.20220608.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/system.memory/4.6.3/system.memory.4.6.3.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/xunit/2.9.3/xunit.2.9.3.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/xunit.analyzers/1.18.0/xunit.analyzers.1.18.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/xunit.assert/2.9.3/xunit.assert.2.9.3.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/xunit.core/2.9.3/xunit.core.2.9.3.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/xunit.extensibility.core/2.9.3/xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/xunit.extensibility.execution/2.9.3/xunit.extensibility.execution.2.9.3.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/xunit.runner.visualstudio/3.1.4/xunit.runner.visualstudio.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
